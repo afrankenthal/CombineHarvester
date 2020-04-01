@@ -1,4 +1,6 @@
 <bin file="iDM_datacard_maker.cpp" name="iDMDatacardMaker"></bin>
+<bin file="datacard_maker_ABCD_grid.cpp" name="DatacardMakerABCDGrid"></bin>
+<bin file="datacard_maker_from_json.cpp" name="DatacardMakerFromJson"></bin>
 <use name="root"/>
 <use name="rootmath"/>
 <use name="roofit"/>
